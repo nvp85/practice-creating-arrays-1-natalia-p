@@ -12,10 +12,7 @@ console.log("Grocery Items:", groceryItems);
 console.log("Prices:", prices);
 
 // 3. Log three individual items of your choice.
-console.log("First item:", groceryItems[0]); 
-console.log("Third item:", groceryItems[2]); 
-console.log("Fifth item:", groceryItems[4]);
+console.log(`Three items: ${groceryItems[0]}, ${groceryItems[2]}, ${groceryItems[4]}`); 
 
 // 4. Log two prices of your choice
-console.log("First price:", prices[0]);
-console.log("Second price:", prices[1]);
+console.log("Two prices:", prices[0], prices[1]);
